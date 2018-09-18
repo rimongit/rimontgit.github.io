@@ -1,1 +1,1 @@
-Created a visualizer of Donald Trump's assets as of Feb. 2018 using Node.js, D3.js, and Express.js. To use the visualizer Node.js is required. To start the server use the command "nodemon server.js" and the project will be available on http://localhost:3000
+Created a visualizer of Donald Trump's assets as of Feb. 2018 using Node.js, D3.js, and Express.js. To use the visualizer please clone the repository. To start the server use the command "nodemon server.js" and the project will be available on http://localhost:3000
